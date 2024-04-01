@@ -10,4 +10,16 @@
 > 3.Günlük sitesinin "text" kısmına bunu yazdırıp kaydedecek.(tekrar bu işlem yapıldığınde yeni bir günlük açacak)
 
 
+## Kullanacağım kütüphaneler:
+- Discord
+- Günlük sitesi için olan kütüphaneler
 
+## İşe yarayabilecek referanslar:
+- Referans 1
+- Referans N
+
+## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar
+Kaynağın ne hakkında olduğunu hatırlamanıza yardımcı olacak kısa bir yorum... [linke gönderecek tıklanabilir bir kelime](https://kaynagin_linki)
+
+sorulacak sorular
+15. satır
