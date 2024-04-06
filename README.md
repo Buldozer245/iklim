@@ -11,7 +11,7 @@
 
 
 ## Kullanacağım kütüphaneler:
-- Discord
+- Discord için olan kütüphanneler
 - Günlük sitesi için olan kütüphaneler
 
 ## İşe yarayabilecek referanslar:
@@ -22,4 +22,5 @@
 Kaynağın ne hakkında olduğunu hatırlamanıza yardımcı olacak kısa bir yorum... [linke gönderecek tıklanabilir bir kelime](https://kaynagin_linki)
 
 sorulacak sorular
-15. satır
+14 ve 15. satır
+referans veya klavuz kaynağı gibi bir şey bulamadım
