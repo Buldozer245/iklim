@@ -15,12 +15,12 @@
 - Günlük sitesi için olan kütüphaneler
 
 ## İşe yarayabilecek referanslar:
-- Referans 1
-- Referans N
+- ---------
+- ---------
 
 ## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar
-Kaynağın ne hakkında olduğunu hatırlamanıza yardımcı olacak kısa bir yorum... [linke gönderecek tıklanabilir bir kelime](https://kaynagin_linki)
+- ----------------
 
 sorulacak sorular
-14 ve 15. satır
+bu proje için greken discord ve bu web sitesi için gereken kütüphneler
 referans veya klavuz kaynağı gibi bir şey bulamadım
